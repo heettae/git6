@@ -1,0 +1,17 @@
+git.txt
+
+
+git : 분산 버전관리 시스템
+test.txt -> test최종.txt -> test최최종.txt
+
+* git - 파일을 관리 폴더 단위로 관리
+   폴더를 저장소(repository)로 지정
+repo -> 저장된 파일(untracked: git이 해당파일은 관리X) -> 관리명령 -> 파일(tracked) - staged/unstaged 상태
+
+* untracked : git 관리하지 않는 파일
+* tracked : git 관리하는 파일
+ - staged : git 변경사항을 저장할 때 상태
+ - unstaged : git 관리하기는 하지만, 최종 저장은 불가능
+
+
+ 
